@@ -1,7 +1,7 @@
-if SHIELD_POTATO_RIGHT_ONLY
+if SHIELD_POTATO_RGHT_ONLY
 
     config ZMK_KEYBOARD_NAME
-        default "potato_right_only"
+        default "potato_rght_only"
 
     config BT
         default y

@@ -1,2 +1,2 @@
-config SHIELD_POTATO_RIGHT_ONLY
-    def_bool $(shields_list_contains, potato_right_only)
+config SHIELD_POTATO_RGHT_ONLY
+    def_bool $(shields_list_contains, potato_rght_only)
